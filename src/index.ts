@@ -1,0 +1,5 @@
+document.title = 'test'
+// import './example/basic-type'
+// import './example/interface'
+// import './example/function'
+import './example/generics'

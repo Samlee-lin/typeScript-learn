@@ -1,0 +1,2 @@
+// symbol
+const s = Symbol()
